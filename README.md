@@ -49,7 +49,7 @@ car-price-prediction/
 
 1. Clone the repository:
 ```bash
-
+git clone https://github.com/ujjvalsharma/car_price_prediction.git
 cd car_price_prediction
 
 ```bash
