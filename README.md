@@ -2,6 +2,11 @@
 
 This project is a **Machine Learning web application** that predicts the selling price of a car based on various technical specifications using a Linear Regression model. The frontend is built using **Streamlit** and the model is trained using **scikit-learn**.
 
+## 🔗 Live Demo
+
+👉 [Click here to use the app](https://carpriceprediction-gug39e8fm3zpmsyrjapm5m.streamlit.app/)
+
+--
 ---
 
 ## 📁 Project Structure
@@ -40,9 +45,12 @@ car-price-prediction/
 ---
 
 ## ▶️ How to Run
+## 💡 How to Use Locally
 
-1. Clone the repository or download the project
-2. Install the required libraries:
+1. Clone the repository:
+```bash
+
+cd car_price_prediction
 
 ```bash
 pip install -r requirements.txt
